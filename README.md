@@ -1,3 +1,7 @@
+Note
+===========
+Should be the last version of Depan when the repo was deleted. But I'm not 100% sure if the binary version matches the current source code.
+
 Description
 ===========
 
